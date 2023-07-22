@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KztdEkNv1lIGzhbuaNZk9WxsM7n2S+rnCIBxVnvnigkqa108g+vf4Yltb+fik81ehQfNwmgm1zcjigQXY0Fr1w==",
+  "dgSpecHash": "wyfMmMG+6e4j/poV2SCHT+JM6CmkYoagvN3l1nukXKT9SZZwuiDEU1kFmO7SCq499NaWnvEwU+ErM3LBrt5gFg==",
   "success": true,
   "projectFilePath": "/home/inkoops/Projects/C#/delegateBack/delegate/delegate.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "/home/inkoops/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/home/inkoops/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/home/inkoops/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/inkoops/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512",
     "/home/inkoops/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/home/inkoops/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/home/inkoops/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

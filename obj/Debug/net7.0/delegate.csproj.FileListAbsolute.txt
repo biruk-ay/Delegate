@@ -34,3 +34,4 @@
 /home/inkoops/Projects/C#/delegateBack/delegate/obj/Debug/net7.0/delegate.pdb
 /home/inkoops/Projects/C#/delegateBack/delegate/obj/Debug/net7.0/delegate.genruntimeconfig.cache
 /home/inkoops/Projects/C#/delegateBack/delegate/obj/Debug/net7.0/ref/delegate.dll
+/home/inkoops/Projects/C#/delegateBack/delegate/bin/Debug/net7.0/Npgsql.dll
