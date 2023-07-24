@@ -35,3 +35,10 @@
 /home/inkoops/Projects/C#/delegateBack/delegate/obj/Debug/net7.0/delegate.genruntimeconfig.cache
 /home/inkoops/Projects/C#/delegateBack/delegate/obj/Debug/net7.0/ref/delegate.dll
 /home/inkoops/Projects/C#/delegateBack/delegate/bin/Debug/net7.0/Npgsql.dll
+/home/inkoops/Projects/C#/delegateBack/delegate/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/inkoops/Projects/C#/delegateBack/delegate/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/inkoops/Projects/C#/delegateBack/delegate/bin/Debug/net7.0/Humanizer.dll
+/home/inkoops/Projects/C#/delegateBack/delegate/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/inkoops/Projects/C#/delegateBack/delegate/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/inkoops/Projects/C#/delegateBack/delegate/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/inkoops/Projects/C#/delegateBack/delegate/bin/Debug/net7.0/System.CodeDom.dll
